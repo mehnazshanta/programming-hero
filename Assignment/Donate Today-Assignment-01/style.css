@@ -1,0 +1,47 @@
+/* body {
+   
+   
+  
+   
+  font-weight: bold;
+  text-align: center;
+} */
+
+.top-heading {
+    background: url(images/donation3.jpg) no-repeat center center fixed;
+    background-size: cover;
+    height: 100%;
+    overflow: hidden;
+    background-repeat: no-repeat;
+    background-size:cover;
+    color:white;
+    text-align: center;
+}
+
+.line-beauty {
+    line-height: 0.5;
+    font-size: 60px;
+}
+
+.button {
+    text-decoration: none;
+    background-image: linear-gradient(red, tomato);
+    padding: 20px 40px;
+    border-radius: 5px;
+    color: aliceblue;
+    font-weight: 700;
+}
+#grey-color{
+    color:gray;
+    text-align:center;
+}
+.half-width{
+width:25%;
+padding-left: 2%;
+}
+footer {
+    text-align: center;
+    padding: 30px;
+    background-color: black;
+    color:red;
+  }
